@@ -1,8 +1,6 @@
 <!--💬TYPINGSVG -->
 <p align="center">
   <a href="https://github.com/Amannpy">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=1&pause=10000000000000&color=27ae60&center=true&vCenter=true&random=false&width=435&lines="Hello Namaste%F0%9F%99%8F%F0%9F%8F%BB%2C+Im+Amann!" 
-    alt="Typing SVG" align="center" />
   </a>
 </p>
 
